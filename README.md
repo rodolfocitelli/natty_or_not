@@ -18,7 +18,8 @@ Olá pessoal, Rodolfo aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo
 
 ## 📒 Descrição
 Este projeto consiste em uma simples ideia de fazer com que chatbots de IA generativa gerem um conteúdo que seja o mais realista possível utilizando sua capacidade máxima de Inteligência artificial.<br/>
-Através de um prompt bem definido pediremos aos chatbots Gemini e ChatGPT para gerarem um conteúdo de sua escolha onde o mesmo deva ser o mais realista possível !!   
+Através de um prompt bem definido pediremos aos chatbots Gemini e ChatGPT para gerarem um conteúdo aleatório de acordo com o contexto requerido pelo usuário, onde o mesmo deva ser o mais realista possível !!  
+ 
 
 
 ## 🤖 Tecnologias Utilizadas
