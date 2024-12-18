@@ -32,7 +32,15 @@ O modelo de prompt criado foi o mais detalahdo possivel visando facilitar a comp
 Voçe pode acessar o prompt clicando aqui: [PROMPT](/prompt.md)
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Para ambos os chatbots escolhi a palavra “Futuro” para fazer parte do contexto. </br>
+Sobre a criação do conteúdo ambos chatbots entenderam os parâmetros e requisições do prompt, porém foram bem diferentes no tipo de conteúdo gerado, abaixo explicarei sobre os dois.
+- GEMINI: Se mostrou apto a gerar o conteúdo conforme os requisitos do prompt informado, porém pecou na geração do mesmo deixando-o menos realista e de fácil interpretação para um humano saber que foi criado por um chatbot.  
+- ChatGPT: Se mostrou totalmente apto a cumprir os requisitos do prompt e realmente o fez. Seguiu todas a regras e criou um conteúdo incrível onde o mesmo parecia ser criado por um humano.
+
+Abaixo segue os links dos resultados gerados:
+- GEMINI: https://g.co/gemini/share/f154adf56ba0
+- ChatGPT: https://chatgpt.com/share/6762ffb4-1088-8006-8303-c519ffa98041
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
