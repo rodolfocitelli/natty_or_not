@@ -42,13 +42,11 @@ Abaixo segue os links dos resultados gerados:
 - ChatGPT: https://chatgpt.com/share/6762ffb4-1088-8006-8303-c519ffa98041
 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+Com uma simples requisição como esta podemos ver o quanto a IA evoluiu e continua constantemente facilitando nossas vidas, usada de forma correta podemos fazer coisas incríveis !!
 
-```markdown
+Mas e aí, que tal você mesmo testar esse prompt ?! 
+Copie agora mesmo clicando [AQUI](/prompt.md) e teste na sua plataforma de IA favorita !! </br>
+Um abraço !!
+ 
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
