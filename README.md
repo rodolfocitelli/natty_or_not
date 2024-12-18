@@ -29,7 +29,7 @@ ChatGPT 4o mini >> https://chatgpt.com/
 
 ## 🧐 Processo de Criação
 O modelo de prompt criado foi o mais detalahdo possivel visando facilitar a compreesão pelos chatbots  </br>
-Voçe pode acessar o prompt clicando aqui:(/prompt.md)
+Voçe pode acessar o prompt clicando aqui: [PROMPT](/prompt.md)
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
