@@ -23,12 +23,13 @@ Através de um prompt bem definido pediremos aos chatbots Gemini e ChatGPT para 
 
 
 ## 🤖 Tecnologias Utilizadas
-Neste projeto foram utilizados os seguintes chatbots:<br/>
-Gemini 1.5 Flash >> https://gemini.google.com/app?hl=pt-BR<br/>
+Neste projeto foram utilizados os seguintes chatbots: <br/>
+Gemini 1.5 Flash >> https://gemini.google.com/app?hl=pt-BR <br/>
 ChatGPT 4o mini >> https://chatgpt.com/
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O modelo de prompt criado foi o mais detalahdo possivel visando facilitar a compreesão pelos chatbots  </br>
+Voçe pode acessar o prompt clicando aqui:(/prompt.md)
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
