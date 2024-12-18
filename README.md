@@ -1,3 +1,4 @@
+# 📺 Projeto "Natty or Not"
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
@@ -14,14 +15,10 @@ Olá pessoal, Rodolfo aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo
 2. **Utilizar a própria IA para criar conteúdos de IA generativa, não é incrível ?!** 
 
 
-# 📺 Projeto "Natty or Not"
-
 ## 📒 Descrição
 Este projeto consiste em uma simples ideia de fazer com que chatbots de IA generativa gerem um conteúdo que seja o mais realista possível utilizando sua capacidade máxima de Inteligência artificial.<br/>
 Através de um prompt bem definido pediremos aos chatbots Gemini e ChatGPT para gerarem um conteúdo aleatório de acordo com o contexto requerido pelo usuário, onde o mesmo deva ser o mais realista possível !!  
  
-
-
 ## 🤖 Tecnologias Utilizadas
 Neste projeto foram utilizados os seguintes chatbots: <br/>
 Gemini 1.5 Flash >> https://gemini.google.com/app?hl=pt-BR <br/>
